@@ -10,12 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahashahid003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahashahid003" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maha-shahid-at-uoguelph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maha-shahid-at-uoguelph" height="30" width="40" /></a>
 <a href="https://kaggle.com/mahashahid3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahashahid3" height="30" width="40" /></a>
-<a href="https://instagram.com/maha_.shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maha_.shahid" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahaha333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahaha333" height="30" width="40" /></a>
-<a href="https://discord.gg/indiscreetcornball" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="indiscreetcornball" height="30" width="40" /></a>
 </p>
 
 - 📫 How to reach me: **mahashahid003@gmail.com**
