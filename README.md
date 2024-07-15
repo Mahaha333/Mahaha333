@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maha Shahid</h1>
 <h3 align="center">3rd year Computer Science student at the University of Guelph</h3>
-<img alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:800/1*mr7WXw8tgpMhqugKP2WhrA.gif">
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mahaha333&label=Profile%20views&color=0e75b6&style=flat" alt="mahaha333" /> </p>
